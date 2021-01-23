@@ -1,6 +1,13 @@
-FOooeo
 Truuu ngt
 dThird
 Four
 HA new changes Im here
-WOW sht uP!!!!
+WOW sht uP!!!
+
+VCS concept
+Version control types
+Why Git
+Download, install, configure
+Create a github repo and clone it
+Pull from remote
+Git Gui & gitk
