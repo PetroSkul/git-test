@@ -11,6 +11,3 @@ Download, install, configure
 Create a github repo and clone it
 Pull from remote
 Git Gui & gitk
-
-new changes txt contentdsf
-gdg
